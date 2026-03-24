@@ -1,0 +1,22 @@
+name: ci
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  ci:
+    uses: pnc-actions/workflows/.github/workflows/python-workflow.yml@main
+    with:
+      mnemonic: <(.MNEMONIC)>
+      python-version: '3.11'
+      group: pnc.<(.MNEMONIC)>
+      python-test-packages: pytest pytest-cov coverage
+      python-test-command: 'pytest -o junit_family=xunit2 --cov=src tests/ --junitxml=pytest-report.xml --cov-report xml:coverage.xml'
+      #docker-image: true
+      #deploy-repo: pnc-orange/<(.PROJECT_NAME)>-deploy
+      #deploy-branch: stage-rnd
+    secrets: inherit

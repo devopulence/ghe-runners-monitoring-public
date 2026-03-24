@@ -1,0 +1,7 @@
+[project]
+name = "<(.PROJECT_NAME)>"
+version = 3.11
+description = "<repo-description>"
+
+[tool.pytest.ini_options]
+pythonpath = ["<path/to/python/directory>"]
