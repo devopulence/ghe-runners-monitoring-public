@@ -1,0 +1,309 @@
+[
+  {
+    "collector": "collect_workflow_runs",
+    "summary": {
+      "org": "devopulence",
+      "collection_date": "2026-03-24",
+      "filters": {
+        "status": null,
+        "created": null
+      },
+      "runs_fetched": 1194,
+      "runs_new": 2,
+      "runs_skipped_duplicate": 1192,
+      "repos_scanned": 9,
+      "errors": [],
+      "rate_limit": {
+        "remaining": 1424,
+        "limit": 5000,
+        "used": 3576,
+        "reset": 1774368609,
+        "reset_in_seconds": 640
+      },
+      "api_requests": 193,
+      "duration_seconds": 77.22
+    },
+    "timestamp": "2026-03-24T15:59:29Z",
+    "run_source": "workflow",
+    "collection_id": "workflow_2026-03-24_11-58-12am"
+  },
+  {
+    "collector": "collect_jobs",
+    "summary": {
+      "owner": "devopulence",
+      "repo": "actions",
+      "collection_date": "2026-03-24",
+      "runs_processed": 7,
+      "jobs_fetched": 6,
+      "jobs_new": 0,
+      "jobs_skipped_duplicate": 6,
+      "runs_with_errors": 0,
+      "errors": [],
+      "rate_limit": {
+        "remaining": 1417,
+        "limit": 5000,
+        "used": 3583,
+        "reset": 1774368609,
+        "reset_in_seconds": 638
+      },
+      "api_requests": 7,
+      "duration_seconds": 1.86
+    },
+    "timestamp": "2026-03-24T15:59:31Z",
+    "run_source": "workflow",
+    "collection_id": "workflow_2026-03-24_11-58-12am"
+  },
+  {
+    "collector": "collect_jobs",
+    "summary": {
+      "owner": "devopulence",
+      "repo": "demo-terraform-modules-releases",
+      "collection_date": "2026-03-24",
+      "runs_processed": 50,
+      "jobs_fetched": 118,
+      "jobs_new": 0,
+      "jobs_skipped_duplicate": 118,
+      "runs_with_errors": 0,
+      "errors": [],
+      "rate_limit": {
+        "remaining": 1367,
+        "limit": 5000,
+        "used": 3633,
+        "reset": 1774368609,
+        "reset_in_seconds": 624
+      },
+      "api_requests": 50,
+      "duration_seconds": 14.11
+    },
+    "timestamp": "2026-03-24T15:59:45Z",
+    "run_source": "workflow",
+    "collection_id": "workflow_2026-03-24_11-58-12am"
+  },
+  {
+    "collector": "collect_jobs",
+    "summary": {
+      "owner": "devopulence",
+      "repo": "ghe-runners-monitoring",
+      "collection_date": "2026-03-24",
+      "runs_processed": 2,
+      "jobs_fetched": 1,
+      "jobs_new": 1,
+      "jobs_skipped_duplicate": 0,
+      "runs_with_errors": 0,
+      "errors": [],
+      "rate_limit": {
+        "remaining": 1365,
+        "limit": 5000,
+        "used": 3635,
+        "reset": 1774368609,
+        "reset_in_seconds": 623
+      },
+      "api_requests": 2,
+      "duration_seconds": 0.57
+    },
+    "timestamp": "2026-03-24T15:59:46Z",
+    "run_source": "workflow",
+    "collection_id": "workflow_2026-03-24_11-58-12am"
+  },
+  {
+    "collector": "collect_jobs",
+    "summary": {
+      "owner": "devopulence",
+      "repo": "git-tfs",
+      "collection_date": "2026-03-24",
+      "runs_processed": 15,
+      "jobs_fetched": 14,
+      "jobs_new": 0,
+      "jobs_skipped_duplicate": 14,
+      "runs_with_errors": 0,
+      "errors": [],
+      "rate_limit": {
+        "remaining": 1350,
+        "limit": 5000,
+        "used": 3650,
+        "reset": 1774368609,
+        "reset_in_seconds": 619
+      },
+      "api_requests": 15,
+      "duration_seconds": 4.06
+    },
+    "timestamp": "2026-03-24T15:59:50Z",
+    "run_source": "workflow",
+    "collection_id": "workflow_2026-03-24_11-58-12am"
+  },
+  {
+    "collector": "collect_jobs",
+    "summary": {
+      "owner": "devopulence",
+      "repo": "njt-kong",
+      "collection_date": "2026-03-24",
+      "runs_processed": 34,
+      "jobs_fetched": 34,
+      "jobs_new": 0,
+      "jobs_skipped_duplicate": 34,
+      "runs_with_errors": 0,
+      "errors": [],
+      "rate_limit": {
+        "remaining": 1316,
+        "limit": 5000,
+        "used": 3684,
+        "reset": 1774368609,
+        "reset_in_seconds": 611
+      },
+      "api_requests": 34,
+      "duration_seconds": 8.52
+    },
+    "timestamp": "2026-03-24T15:59:58Z",
+    "run_source": "workflow",
+    "collection_id": "workflow_2026-03-24_11-58-12am"
+  },
+  {
+    "collector": "collect_jobs",
+    "summary": {
+      "owner": "devopulence",
+      "repo": "pythonProject",
+      "collection_date": "2026-03-24",
+      "runs_processed": 50,
+      "jobs_fetched": 191,
+      "jobs_new": 0,
+      "jobs_skipped_duplicate": 191,
+      "runs_with_errors": 0,
+      "errors": [],
+      "rate_limit": {
+        "remaining": 1266,
+        "limit": 5000,
+        "used": 3734,
+        "reset": 1774368609,
+        "reset_in_seconds": 593
+      },
+      "api_requests": 50,
+      "duration_seconds": 17.51
+    },
+    "timestamp": "2026-03-24T16:00:16Z",
+    "run_source": "workflow",
+    "collection_id": "workflow_2026-03-24_11-58-12am"
+  },
+  {
+    "collector": "collect_jobs",
+    "summary": {
+      "owner": "devopulence",
+      "repo": "releast-terraform-modules",
+      "collection_date": "2026-03-24",
+      "runs_processed": 12,
+      "jobs_fetched": 15,
+      "jobs_new": 0,
+      "jobs_skipped_duplicate": 15,
+      "runs_with_errors": 0,
+      "errors": [],
+      "rate_limit": {
+        "remaining": 1254,
+        "limit": 5000,
+        "used": 3746,
+        "reset": 1774368609,
+        "reset_in_seconds": 590
+      },
+      "api_requests": 12,
+      "duration_seconds": 3.25
+    },
+    "timestamp": "2026-03-24T16:00:19Z",
+    "run_source": "workflow",
+    "collection_id": "workflow_2026-03-24_11-58-12am"
+  },
+  {
+    "collector": "collect_jobs",
+    "summary": {
+      "owner": "devopulence",
+      "repo": "runner-builder",
+      "collection_date": "2026-03-24",
+      "runs_processed": 5,
+      "jobs_fetched": 7,
+      "jobs_new": 0,
+      "jobs_skipped_duplicate": 7,
+      "runs_with_errors": 0,
+      "errors": [],
+      "rate_limit": {
+        "remaining": 1249,
+        "limit": 5000,
+        "used": 3751,
+        "reset": 1774368609,
+        "reset_in_seconds": 588
+      },
+      "api_requests": 5,
+      "duration_seconds": 2.16
+    },
+    "timestamp": "2026-03-24T16:00:21Z",
+    "run_source": "workflow",
+    "collection_id": "workflow_2026-03-24_11-58-12am"
+  },
+  {
+    "collector": "collect_jobs",
+    "summary": {
+      "owner": "devopulence",
+      "repo": "terraform-modules-demo",
+      "collection_date": "2026-03-24",
+      "runs_processed": 25,
+      "jobs_fetched": 82,
+      "jobs_new": 0,
+      "jobs_skipped_duplicate": 82,
+      "runs_with_errors": 0,
+      "errors": [],
+      "rate_limit": {
+        "remaining": 1224,
+        "limit": 5000,
+        "used": 3776,
+        "reset": 1774368609,
+        "reset_in_seconds": 579
+      },
+      "api_requests": 25,
+      "duration_seconds": 8.97
+    },
+    "timestamp": "2026-03-24T16:00:30Z",
+    "run_source": "workflow",
+    "collection_id": "workflow_2026-03-24_11-58-12am"
+  },
+  {
+    "collector": "collect_org_jobs",
+    "summary": {
+      "org": "devopulence",
+      "repos_processed": 9,
+      "total_jobs_fetched": 468,
+      "total_jobs_new": 1,
+      "duration_seconds": 61.02
+    },
+    "timestamp": "2026-03-24T16:00:30Z",
+    "run_source": "workflow",
+    "collection_id": "workflow_2026-03-24_11-58-12am"
+  },
+  {
+    "collector": "scheduled_collect",
+    "summary": {
+      "collection_date": "2026-03-24",
+      "collection_id": "workflow_2026-03-24_11-58-12am",
+      "mode": "org",
+      "target": "devopulence",
+      "run_source": "workflow",
+      "steps": {
+        "workflow_runs": {
+          "runs_fetched": 1194,
+          "runs_new": 2,
+          "runs_skipped_duplicate": 1192,
+          "duration_seconds": 77.22,
+          "errors": []
+        },
+        "jobs": {
+          "jobs_fetched": 468,
+          "jobs_new": 1,
+          "jobs_skipped_duplicate": 467,
+          "duration_seconds": 61.02,
+          "errors": []
+        }
+      },
+      "errors": [],
+      "success": true,
+      "total_duration_seconds": 138.25
+    },
+    "timestamp": "2026-03-24T16:00:30Z",
+    "run_source": "workflow",
+    "collection_id": "workflow_2026-03-24_11-58-12am"
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "timestamp": "2026-03-24T15:59:46Z",
+    "source": "github_api",
+    "run_source": "workflow",
+    "collection_id": "workflow_2026-03-24_11-58-12am",
+    "data": {
+      "id": 68388765434,
+      "run_id": 23499127718,
+      "workflow_name": "Collect Monitoring Stats (devopulence)",
+      "name": "collect",
+      "status": "in_progress",
+      "conclusion": null,
+      "created_at": "2026-03-24T15:57:59Z",
+      "started_at": "2026-03-24T15:58:02Z",
+      "completed_at": null,
+      "head_branch": "main",
+      "head_sha": "3c90e996b309dc4fb527410d235e5de61a211612",
+      "run_attempt": 1,
+      "html_url": "https://github.com/devopulence/ghe-runners-monitoring/actions/runs/23499127718/job/68388765434",
+      "labels": [
+        "ubuntu-latest"
+      ],
+      "runner_id": 1000000023,
+      "runner_name": "GitHub Actions 1000000023",
+      "runner_group_id": 0,
+      "runner_group_name": "GitHub Actions",
+      "steps": [
+        {
+          "name": "Set up job",
+          "number": 1,
+          "status": "completed",
+          "conclusion": "success",
+          "started_at": "2026-03-24T15:58:03Z",
+          "completed_at": "2026-03-24T15:58:04Z"
+        },
+        {
+          "name": "Checkout repository",
+          "number": 2,
+          "status": "completed",
+          "conclusion": "success",
+          "started_at": "2026-03-24T15:58:04Z",
+          "completed_at": "2026-03-24T15:58:05Z"
+        },
+        {
+          "name": "Set up Python",
+          "number": 3,
+          "status": "completed",
+          "conclusion": "success",
+          "started_at": "2026-03-24T15:58:05Z",
+          "completed_at": "2026-03-24T15:58:05Z"
+        },
+        {
+          "name": "Install dependencies",
+          "number": 4,
+          "status": "completed",
+          "conclusion": "success",
+          "started_at": "2026-03-24T15:58:05Z",
+          "completed_at": "2026-03-24T15:58:11Z"
+        },
+        {
+          "name": "Run scheduled collection",
+          "number": 5,
+          "status": "in_progress",
+          "conclusion": null,
+          "started_at": "2026-03-24T15:58:11Z",
+          "completed_at": null
+        },
+        {
+          "name": "Commit monitoring data",
+          "number": 6,
+          "status": "pending",
+          "conclusion": null,
+          "started_at": null,
+          "completed_at": null
+        },
+        {
+          "name": "Upload monitoring data as artifact",
+          "number": 7,
+          "status": "pending",
+          "conclusion": null,
+          "started_at": null,
+          "completed_at": null
+        },
+        {
+          "name": "Post Set up Python",
+          "number": 13,
+          "status": "pending",
+          "conclusion": null,
+          "started_at": null,
+          "completed_at": null
+        },
+        {
+          "name": "Post Checkout repository",
+          "number": 14,
+          "status": "pending",
+          "conclusion": null,
+          "started_at": null,
+          "completed_at": null
+        }
+      ],
+      "repository_full_name": "devopulence/ghe-runners-monitoring"
+    }
+  }
+]

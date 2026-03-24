@@ -1,0 +1,54 @@
+[
+  {
+    "timestamp": "2026-03-24T15:59:29Z",
+    "source": "github_api",
+    "run_source": "workflow",
+    "collection_id": "workflow_2026-03-24_11-58-12am",
+    "data": {
+      "id": 23499127718,
+      "name": "Collect Monitoring Stats (devopulence)",
+      "workflow_id": 250812651,
+      "status": "in_progress",
+      "conclusion": null,
+      "event": "workflow_dispatch",
+      "head_branch": "main",
+      "head_sha": "3c90e996b309dc4fb527410d235e5de61a211612",
+      "actor_login": "johndesp",
+      "actor_id": 2816749,
+      "created_at": "2026-03-24T15:57:57Z",
+      "updated_at": "2026-03-24T15:58:03Z",
+      "run_started_at": "2026-03-24T15:57:57Z",
+      "run_attempt": 1,
+      "run_number": 1,
+      "html_url": "https://github.com/devopulence/ghe-runners-monitoring/actions/runs/23499127718",
+      "repository_full_name": "devopulence/ghe-runners-monitoring",
+      "repository_name": "ghe-runners-monitoring"
+    }
+  },
+  {
+    "timestamp": "2026-03-24T15:59:29Z",
+    "source": "github_api",
+    "run_source": "workflow",
+    "collection_id": "workflow_2026-03-24_11-58-12am",
+    "data": {
+      "id": 23499110497,
+      "name": ".github/workflows/ci.yml",
+      "workflow_id": 250812650,
+      "status": "completed",
+      "conclusion": "failure",
+      "event": "push",
+      "head_branch": "main",
+      "head_sha": "3c90e996b309dc4fb527410d235e5de61a211612",
+      "actor_login": "johndesp",
+      "actor_id": 2816749,
+      "created_at": "2026-03-24T15:57:35Z",
+      "updated_at": "2026-03-24T15:57:35Z",
+      "run_started_at": "2026-03-24T15:57:35Z",
+      "run_attempt": 1,
+      "run_number": 1,
+      "html_url": "https://github.com/devopulence/ghe-runners-monitoring/actions/runs/23499110497",
+      "repository_full_name": "devopulence/ghe-runners-monitoring",
+      "repository_name": "ghe-runners-monitoring"
+    }
+  }
+]
