@@ -1,0 +1,272 @@
+[
+  {
+    "collector": "collect_workflow_runs",
+    "summary": {
+      "org": "devopulence",
+      "collection_date": "2026-03-24",
+      "filters": {
+        "status": null,
+        "created": null
+      },
+      "runs_fetched": 0,
+      "runs_new": 0,
+      "runs_skipped_duplicate": 0,
+      "repos_scanned": 0,
+      "errors": [
+        "No token provided. Set GITHUB_TOKEN env var or pass token="
+      ],
+      "duration_seconds": 0.01
+    },
+    "timestamp": "2026-03-24T18:23:52Z",
+    "run_source": "workflow",
+    "collection_id": "workflow_2026-03-24_02-23-52pm"
+  },
+  {
+    "collector": "collect_jobs",
+    "summary": {
+      "owner": "devopulence",
+      "repo": "actions",
+      "collection_date": "2026-03-24",
+      "runs_processed": 0,
+      "jobs_fetched": 0,
+      "jobs_new": 0,
+      "jobs_skipped_duplicate": 0,
+      "runs_with_errors": 0,
+      "errors": [
+        "Client init failed: No token provided. Set GITHUB_TOKEN env var or pass token="
+      ],
+      "duration_seconds": 0.06
+    },
+    "timestamp": "2026-03-24T18:23:52Z",
+    "run_source": "workflow",
+    "collection_id": "workflow_2026-03-24_02-23-52pm"
+  },
+  {
+    "collector": "collect_jobs",
+    "summary": {
+      "owner": "devopulence",
+      "repo": "demo-terraform-modules-releases",
+      "collection_date": "2026-03-24",
+      "runs_processed": 0,
+      "jobs_fetched": 0,
+      "jobs_new": 0,
+      "jobs_skipped_duplicate": 0,
+      "runs_with_errors": 0,
+      "errors": [
+        "Client init failed: No token provided. Set GITHUB_TOKEN env var or pass token="
+      ],
+      "duration_seconds": 0.06
+    },
+    "timestamp": "2026-03-24T18:23:52Z",
+    "run_source": "workflow",
+    "collection_id": "workflow_2026-03-24_02-23-52pm"
+  },
+  {
+    "collector": "collect_jobs",
+    "summary": {
+      "owner": "devopulence",
+      "repo": "ghe-runners-monitoring",
+      "collection_date": "2026-03-24",
+      "runs_processed": 0,
+      "jobs_fetched": 0,
+      "jobs_new": 0,
+      "jobs_skipped_duplicate": 0,
+      "runs_with_errors": 0,
+      "errors": [
+        "Client init failed: No token provided. Set GITHUB_TOKEN env var or pass token="
+      ],
+      "duration_seconds": 0.06
+    },
+    "timestamp": "2026-03-24T18:23:52Z",
+    "run_source": "workflow",
+    "collection_id": "workflow_2026-03-24_02-23-52pm"
+  },
+  {
+    "collector": "collect_jobs",
+    "summary": {
+      "owner": "devopulence",
+      "repo": "git-tfs",
+      "collection_date": "2026-03-24",
+      "runs_processed": 0,
+      "jobs_fetched": 0,
+      "jobs_new": 0,
+      "jobs_skipped_duplicate": 0,
+      "runs_with_errors": 0,
+      "errors": [
+        "Client init failed: No token provided. Set GITHUB_TOKEN env var or pass token="
+      ],
+      "duration_seconds": 0.06
+    },
+    "timestamp": "2026-03-24T18:23:52Z",
+    "run_source": "workflow",
+    "collection_id": "workflow_2026-03-24_02-23-52pm"
+  },
+  {
+    "collector": "collect_jobs",
+    "summary": {
+      "owner": "devopulence",
+      "repo": "njt-kong",
+      "collection_date": "2026-03-24",
+      "runs_processed": 0,
+      "jobs_fetched": 0,
+      "jobs_new": 0,
+      "jobs_skipped_duplicate": 0,
+      "runs_with_errors": 0,
+      "errors": [
+        "Client init failed: No token provided. Set GITHUB_TOKEN env var or pass token="
+      ],
+      "duration_seconds": 0.06
+    },
+    "timestamp": "2026-03-24T18:23:52Z",
+    "run_source": "workflow",
+    "collection_id": "workflow_2026-03-24_02-23-52pm"
+  },
+  {
+    "collector": "collect_jobs",
+    "summary": {
+      "owner": "devopulence",
+      "repo": "pythonProject",
+      "collection_date": "2026-03-24",
+      "runs_processed": 0,
+      "jobs_fetched": 0,
+      "jobs_new": 0,
+      "jobs_skipped_duplicate": 0,
+      "runs_with_errors": 0,
+      "errors": [
+        "Client init failed: No token provided. Set GITHUB_TOKEN env var or pass token="
+      ],
+      "duration_seconds": 0.06
+    },
+    "timestamp": "2026-03-24T18:23:53Z",
+    "run_source": "workflow",
+    "collection_id": "workflow_2026-03-24_02-23-52pm"
+  },
+  {
+    "collector": "collect_jobs",
+    "summary": {
+      "owner": "devopulence",
+      "repo": "releast-terraform-modules",
+      "collection_date": "2026-03-24",
+      "runs_processed": 0,
+      "jobs_fetched": 0,
+      "jobs_new": 0,
+      "jobs_skipped_duplicate": 0,
+      "runs_with_errors": 0,
+      "errors": [
+        "Client init failed: No token provided. Set GITHUB_TOKEN env var or pass token="
+      ],
+      "duration_seconds": 0.06
+    },
+    "timestamp": "2026-03-24T18:23:53Z",
+    "run_source": "workflow",
+    "collection_id": "workflow_2026-03-24_02-23-52pm"
+  },
+  {
+    "collector": "collect_jobs",
+    "summary": {
+      "owner": "devopulence",
+      "repo": "runner-builder",
+      "collection_date": "2026-03-24",
+      "runs_processed": 0,
+      "jobs_fetched": 0,
+      "jobs_new": 0,
+      "jobs_skipped_duplicate": 0,
+      "runs_with_errors": 0,
+      "errors": [
+        "Client init failed: No token provided. Set GITHUB_TOKEN env var or pass token="
+      ],
+      "duration_seconds": 0.07
+    },
+    "timestamp": "2026-03-24T18:23:53Z",
+    "run_source": "workflow",
+    "collection_id": "workflow_2026-03-24_02-23-52pm"
+  },
+  {
+    "collector": "collect_jobs",
+    "summary": {
+      "owner": "devopulence",
+      "repo": "terraform-modules-demo",
+      "collection_date": "2026-03-24",
+      "runs_processed": 0,
+      "jobs_fetched": 0,
+      "jobs_new": 0,
+      "jobs_skipped_duplicate": 0,
+      "runs_with_errors": 0,
+      "errors": [
+        "Client init failed: No token provided. Set GITHUB_TOKEN env var or pass token="
+      ],
+      "duration_seconds": 0.06
+    },
+    "timestamp": "2026-03-24T18:23:53Z",
+    "run_source": "workflow",
+    "collection_id": "workflow_2026-03-24_02-23-52pm"
+  },
+  {
+    "collector": "collect_org_jobs",
+    "summary": {
+      "org": "devopulence",
+      "repos_processed": 9,
+      "total_jobs_fetched": 0,
+      "total_jobs_new": 0,
+      "duration_seconds": 0.58
+    },
+    "timestamp": "2026-03-24T18:23:53Z",
+    "run_source": "workflow",
+    "collection_id": "workflow_2026-03-24_02-23-52pm"
+  },
+  {
+    "collector": "scheduled_collect",
+    "summary": {
+      "collection_date": "2026-03-24",
+      "collection_id": "workflow_2026-03-24_02-23-52pm",
+      "mode": "org",
+      "target": "devopulence",
+      "run_source": "workflow",
+      "steps": {
+        "workflow_runs": {
+          "runs_fetched": 0,
+          "runs_new": 0,
+          "runs_skipped_duplicate": 0,
+          "duration_seconds": 0.01,
+          "errors": [
+            "No token provided. Set GITHUB_TOKEN env var or pass token="
+          ]
+        },
+        "jobs": {
+          "jobs_fetched": 0,
+          "jobs_new": 0,
+          "jobs_skipped_duplicate": 0,
+          "duration_seconds": 0.58,
+          "errors": [
+            "Client init failed: No token provided. Set GITHUB_TOKEN env var or pass token=",
+            "Client init failed: No token provided. Set GITHUB_TOKEN env var or pass token=",
+            "Client init failed: No token provided. Set GITHUB_TOKEN env var or pass token=",
+            "Client init failed: No token provided. Set GITHUB_TOKEN env var or pass token=",
+            "Client init failed: No token provided. Set GITHUB_TOKEN env var or pass token=",
+            "Client init failed: No token provided. Set GITHUB_TOKEN env var or pass token=",
+            "Client init failed: No token provided. Set GITHUB_TOKEN env var or pass token=",
+            "Client init failed: No token provided. Set GITHUB_TOKEN env var or pass token=",
+            "Client init failed: No token provided. Set GITHUB_TOKEN env var or pass token="
+          ]
+        }
+      },
+      "errors": [
+        "No token provided. Set GITHUB_TOKEN env var or pass token=",
+        "Client init failed: No token provided. Set GITHUB_TOKEN env var or pass token=",
+        "Client init failed: No token provided. Set GITHUB_TOKEN env var or pass token=",
+        "Client init failed: No token provided. Set GITHUB_TOKEN env var or pass token=",
+        "Client init failed: No token provided. Set GITHUB_TOKEN env var or pass token=",
+        "Client init failed: No token provided. Set GITHUB_TOKEN env var or pass token=",
+        "Client init failed: No token provided. Set GITHUB_TOKEN env var or pass token=",
+        "Client init failed: No token provided. Set GITHUB_TOKEN env var or pass token=",
+        "Client init failed: No token provided. Set GITHUB_TOKEN env var or pass token=",
+        "Client init failed: No token provided. Set GITHUB_TOKEN env var or pass token="
+      ],
+      "success": true,
+      "total_duration_seconds": 0.59
+    },
+    "timestamp": "2026-03-24T18:23:53Z",
+    "run_source": "workflow",
+    "collection_id": "workflow_2026-03-24_02-23-52pm"
+  }
+]
