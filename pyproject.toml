@@ -1,5 +1,5 @@
 [project]
-name = "<(.PROJECT_NAME)>"
+name = "ghe-runners-monitoring"
 version = 3.11
 description = "<repo-description>"
 
